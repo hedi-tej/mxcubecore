@@ -16,6 +16,7 @@ Developer documentation
     docs
     configuration_files
     commands_channels
+    harvester
     queue
     abstract_classes
     api
